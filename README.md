@@ -57,6 +57,7 @@ Before you begin, ensure you have met the following requirements:
 ---
 
 > [!IMPORTANT]
-> - [VoiceLine Discord Demo](https://discord.gg/JDBMSjqp3K)
+> - VoiceLine Demo
+> - (336) 397-4985
 
 ---
